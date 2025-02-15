@@ -29,6 +29,6 @@ Sou um estudante de cibersegurança, atualmente estudando para a certificação 
 - **Segurança Cibernética**
 
 ## 📫 Contato
-📧 E-mail: matheusdoresrodriguesdossantos@gmai.com
+📧 E-mail: matheusdoresrodriguesdossantos@gmail.com
 🔗 LinkedIn: matheus-dores-00b4aa304
 🐙 GitHub: [matheusdores](https://github.com/matheusdores).
